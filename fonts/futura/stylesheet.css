@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'UntitledTTF';
+    src: url('UntitledTTF.eot');
+    src: url('UntitledTTF.eot?#iefix') format('embedded-opentype'),
+        url('UntitledTTF.woff2') format('woff2'),
+        url('UntitledTTF.woff') format('woff'),
+        url('UntitledTTF.ttf') format('truetype'),
+        url('UntitledTTF.svg#UntitledTTF') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
